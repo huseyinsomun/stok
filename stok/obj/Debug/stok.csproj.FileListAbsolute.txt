@@ -1,0 +1,17 @@
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmmusteriekle.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.Properties.Resources.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.csproj.GenerateResource.cache
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.csproj.CoreCompileInputs.cache
+C:\Users\somun\source\repos\stok\stok\bin\Debug\stok.exe.config
+C:\Users\somun\source\repos\stok\stok\bin\Debug\stok.exe
+C:\Users\somun\source\repos\stok\stok\bin\Debug\stok.pdb
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.exe
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.pdb
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.csprojAssemblyReference.cache
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmsatis.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmmusteriliste.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmkategori.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmmarka.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmurunekle.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmurunlisteleme.resources
+C:\Users\somun\source\repos\stok\stok\obj\Debug\stok.frmsatislisteleme.resources
